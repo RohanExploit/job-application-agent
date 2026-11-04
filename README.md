@@ -1,8 +1,11 @@
 # 💼 AI Job Application Agent with Streamlit & CrewAI
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=RohanExploit/job-application-agent&branch=main&mainModule=app.py)
+
 An autonomous multi-agent career preparation system built with **CrewAI** and powered by **Google Gemini**. It automatically analyzes job postings and candidate profiles to generate complete, high-impact application packages.
 
 ---
+
 
 ## ✨ Features
 
